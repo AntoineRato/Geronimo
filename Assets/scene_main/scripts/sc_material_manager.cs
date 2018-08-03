@@ -25,7 +25,6 @@ public class sc_material_manager : MonoBehaviour
     public void change_selected_material()
     {
         selected_material = Resources.Load("materials/" + EventSystem.current.currentSelectedGameObject.name, typeof(Material)) as Material;
-        Debug.Log("selected material : " + selected_material);
         childrensMainObject = mainObject.GetComponentsInChildren<Renderer>();
 
         foreach(Renderer child in childrensMainObject)
