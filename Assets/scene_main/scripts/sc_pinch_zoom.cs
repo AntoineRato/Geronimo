@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class sc_pinch_zoom : MonoBehaviour
 {
-    private float ratioScale = 0.03f;
-    private float rotationSpeed = 0.03f;
+    private float ratioScale = 0.005f;
+    private float rotationSpeed = 0.005f;
 
     private float scaleLimit = 0.2f;
     private float previousPosition;
