@@ -37,3 +37,8 @@ L'utilisation de cette application nécessite l'accés à l'appareil photo afin 
   Je vous met à disposition deux lien visant à renseigner dans le model loader afin de tester le chargement de models externe au runtime de l'application (petite erreur de ma part, le nom de l'objet importé sera toujours iphone, peut importe le nom de cleui importé. Afin de corriger ce bug, il suffit de récupérer le nom de l'objet sur le serveur, faisable avec un stream editor) :
   • http://juicestudio.eu/chair.obj
   • http://juicestudio.eu/iphone.fbx
+  
+  
+Les scènes utilisés sont celles-ci:
+- Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity (pour la scène avec AR)
+- Assets/Scenes/scene_main (pour la scène sans AR)
