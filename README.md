@@ -1,6 +1,6 @@
-Geronimo
+# Geronimo
 
-Application iOS qui a pour but de charger des modèles 3D.
+Application iOS qui a pour but de charger des modèles 3D et de les afficher.
 
 
 
