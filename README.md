@@ -30,7 +30,7 @@ L'utilisation de cette application nécessite l'accés à l'appareil photo afin 
   - Appuyez sur le model souhaité afin de le charger sur la scène.
   - Le lien en bas permet d'ajouter un objet 3D à la liste; un accès direct au fichier est nécessaire (exemple: serveur FTP) (cette fonctionnalité ne fonctionne que sur l'éditeur Unity).
   
-  # Details
+# Details
   
 Les scènes utilisés sont celles-ci:
 - Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity (pour la scène avec AR)
