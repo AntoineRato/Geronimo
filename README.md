@@ -17,13 +17,13 @@ Using this application requires access to the camera in order to use augmented r
 # Use
 
 - Perform a pinch to modify the scale of the object on the scene.
-- Swipe to rotate the object on the scene.
+- Swipe to rotate the object on the scene. (can be improved by simulating a second finger at the opposite position of the user's finger and calculating the angle between both)
 
 - The "Materials" button at the top left allows you to open the material menu:
   - Press the different colors of this menu to change the color of the object on the scene.
   
 
-- The "Deactivate AR Move" / "Activate AR Move" button at the top of the screen allows you to activate/deactivate the repositioning of the entire portal, necessary to use the other features without moving the whole thing.
+- The "Deactivate AR Move" / "Activate AR Move" button at the top of the screen allows you to activate/deactivate the repositioning of the entire portal, necessary to use the other features without moving the whole thing. (can be improved by automatically detect when it's a click that interact with an UI item and not with the scene)
 
 
 - The "Models" button at the top right of the screen opens the models menu:
